@@ -47,7 +47,7 @@
 	  attributeName="fill"
 	  values="red"
 	  dur="0s"
-	  begin="rectangle8.click"
+	  begin="0s"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
@@ -55,7 +55,7 @@
 	  from="100"
 	  to="61.8034"
 	  dur="1s"
-	  begin="rectangle8.click"
+	  begin="0s"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
@@ -63,14 +63,14 @@
 	  from="100"
 	  to="61.8034"
 	  dur="1s"
-	  begin="rectangle8.click"
+	  begin="0s"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
 	  attributeName="x"
 	  values="5"
 	  dur="1s"
-	  begin="rectangle8.click"
+	  begin="0s"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
@@ -79,7 +79,7 @@
 	  from="5"
 	  to="105"
 	  dur="1s"
-	  begin="rectangle8.click"
+	  begin="0s"
 	  fill="freeze" />
 <!--object 2 animation-->
  <animate
