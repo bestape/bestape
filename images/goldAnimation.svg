@@ -1,24 +1,24 @@
 <svg 
 	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
-	version="1.1" 
-	viewBox="0 0 110 171.8034"
+	version="1.1"
+	viewBox="0 0 102 163.8034"
 	fill="none" >
 <!--static objects-->
   <rect
 	  id="rectangle0"
-	  width="110"
-	  height="171.8034"
+	  width="102"
+	  height="163.8034"
 	  x="0"
 	  y="0"
 	  stroke="black"
-	  stroke-width="10" />
+	  stroke-width="2" />
   <rect
 	  id="rectangle8"
 	  width="100"
 	  height="100"
-	  x="5"
-	  y="5"
+	  x="1"
+	  y="1"
 	  fill="blue" />
 <!--dynamic objects-->
   <rect
@@ -47,39 +47,39 @@
 	  attributeName="fill"
 	  values="red"
 	  dur="0s"
-	  begin="0s; rectangle4animate4.end"
+	  begin="0s; endanimate.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
 	  attributeName="width"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
-	  begin="0s; rectangle4animate4.end"
+	  dur="2s"
+	  begin="0s; endanimate.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
 	  attributeName="height"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
-	  begin="0s; rectangle4animate4.end"
+	  dur="2s"
+	  begin="0s; endanimate.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
 	  attributeName="x"
-	  values="5"
-	  dur="1s"
-	  begin="0s; rectangle4animate4.end"
+	  values="1"
+	  dur="2s"
+	  begin="0s; endanimate.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle1"
 	  id="rectangle1animate1"
 	  attributeName="y"
-	  from="5"
-	  to="105"
-	  dur="1s"
-	  begin="0s; rectangle4animate4.end"
+	  from="1"
+	  to="101"
+	  dur="2s"
+	  begin="0s; endanimate.end"
 	  fill="freeze" />
 <!--object 2 animation-->
  <animate
@@ -94,7 +94,7 @@
 	  attributeName="width"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle1animate1.end"
 	  fill="freeze" />
  <animate
@@ -102,23 +102,23 @@
 	  attributeName="height"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle1animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle2"
 	  attributeName="x"
-	  values="5"
-	  dur="1s"
+	  values="1"
+	  dur="2s"
 	  begin="rectangle1animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle2"
 	  id="rectangle2animate1"
 	  attributeName="y"
-	  from="5"
-	  to="105"
-	  dur="1s"
+	  from="1"
+	  to="101"
+	  dur="2s"
 	  begin="rectangle1animate1.end"
 	  fill="freeze" />
 <!---->
@@ -127,7 +127,7 @@
 	  attributeName="width"
 	  from="61.8034"
 	  to="38.1966"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle2animate1.end"
 	  fill="freeze" />
  <animate
@@ -135,24 +135,24 @@
 	  attributeName="height"
 	  from="61.8034"
 	  to="38.1966"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle2animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle2"
 	  attributeName="x"
-	  from="5"
-	  to="66.8034"
-	  dur="1s"
+	  from="1"
+	  to="62.8034"
+	  dur="2s"
 	  begin="rectangle2animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle2"
 	  id="rectangle2animate2"
 	  attributeName="y"
-	  from="105"
-	  to="128.6068"
-	  dur="1s"
+	  from="101"
+	  to="124.6068"
+	  dur="2s"
 	  begin="rectangle2animate1.end"
 	  fill="freeze" />
 <!--object 3 animation-->
@@ -168,7 +168,7 @@
 	  attributeName="width"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle2animate2.end"
 	  fill="freeze" />
  <animate
@@ -176,23 +176,23 @@
 	  attributeName="height"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle2animate2.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle3"
 	  attributeName="x"
-	  values="5"
-	  dur="1s"
+	  values="1"
+	  dur="2s"
 	  begin="rectangle2animate2.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle3"
 	  id="rectangle3animate1"
 	  attributeName="y"
-	  from="5"
-	  to="105"
-	  dur="1s"
+	  from="1"
+	  to="101"
+	  dur="2s"
 	  begin="rectangle2animate2.end"
 	  fill="freeze" />
 <!---->
@@ -201,7 +201,7 @@
 	  attributeName="width"
 	  from="61.8034"
 	  to="38.1966"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle3animate1.end"
 	  fill="freeze" />
  <animate
@@ -209,24 +209,24 @@
 	  attributeName="height"
 	  from="61.8034"
 	  to="38.1966"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle3animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle3"
 	  attributeName="x"
-	  from="5"
-	  to="66.8034"
-	  dur="1s"
+	  from="1"
+	  to="62.8034"
+	  dur="2s"
 	  begin="rectangle3animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle3"
 	  id="rectangle3animate2"
 	  attributeName="y"
-	  from="105"
-	  to="128.6068"
-	  dur="1s"
+	  from="101"
+	  to="124.6068"
+	  dur="2s"
 	  begin="rectangle3animate1.end"
 	  fill="freeze" />
 <!---->
@@ -235,7 +235,7 @@
 	  attributeName="width"
 	  from="38.1966"
 	  to="23.6068"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle3animate2.end"
 	  fill="freeze" />
  <animate
@@ -243,24 +243,24 @@
 	  attributeName="height"
 	  from="38.1966"
 	  to="23.6069"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle3animate2.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle3"
 	  attributeName="x"
-	  from="66.8034"
-	  to="81.3932"
-	  dur="1s"
+	  from="62.8034"
+	  to="77.3932"
+	  dur="2s"
 	  begin="rectangle3animate2.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle3"
 	  id="rectangle3animate3"
 	  attributeName="y"
-	  from="128.6068"
-	  to="105"
-	  dur="1s"
+	  from="124.6068"
+	  to="101"
+	  dur="2s"
 	  begin="rectangle3animate2.end"
 	  fill="freeze" />
 <!--object 4 animation-->
@@ -276,7 +276,7 @@
 	  attributeName="width"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle3animate3.end"
 	  fill="freeze" />
  <animate
@@ -284,23 +284,23 @@
 	  attributeName="height"
 	  from="100"
 	  to="61.8034"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle3animate3.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  attributeName="x"
-	  values="5"
-	  dur="1s"
+	  values="1"
+	  dur="2s"
 	  begin="rectangle3animate3.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  id="rectangle4animate1"
 	  attributeName="y"
-	  from="5"
-	  to="105"
-	  dur="1s"
+	  from="1"
+	  to="101"
+	  dur="2s"
 	  begin="rectangle3animate3.end"
 	  fill="freeze" />
 <!---->
@@ -309,7 +309,7 @@
 	  attributeName="width"
 	  from="61.8034"
 	  to="38.1966"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle4animate1.end"
 	  fill="freeze" />
  <animate
@@ -317,24 +317,24 @@
 	  attributeName="height"
 	  from="61.8034"
 	  to="38.1966"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle4animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  attributeName="x"
-	  from="5"
-	  to="66.8034"
-	  dur="1s"
+	  from="1"
+	  to="62.8034"
+	  dur="2s"
 	  begin="rectangle4animate1.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  id="rectangle4animate2"
 	  attributeName="y"
-	  from="105"
-	  to="128.6068"
-	  dur="1s"
+	  from="101"
+	  to="124.6068"
+	  dur="2s"
 	  begin="rectangle4animate1.end"
 	  fill="freeze" />
 <!---->
@@ -343,7 +343,7 @@
 	  attributeName="width"
 	  from="38.1966"
 	  to="23.6068"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle4animate2.end"
 	  fill="freeze" />
  <animate
@@ -351,24 +351,24 @@
 	  attributeName="height"
 	  from="38.1966"
 	  to="23.6069"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle4animate2.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  attributeName="x"
-	  from="66.8034"
-	  to="81.3932"
-	  dur="1s"
+	  from="62.8034"
+	  to="77.3932"
+	  dur="2s"
 	  begin="rectangle4animate2.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  id="rectangle4animate3"
 	  attributeName="y"
-	  from="128.6068"
-	  to="105"
-	  dur="1s"
+	  from="124.6068"
+	  to="101"
+	  dur="2s"
 	  begin="rectangle4animate2.end"
 	  fill="freeze" />
 <!---->
@@ -377,7 +377,7 @@
 	  attributeName="width"
 	  from="23.6068"
 	  to="14.5898"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle4animate3.end"
 	  fill="freeze" />
  <animate
@@ -385,53 +385,62 @@
 	  attributeName="height"
 	  from="23.6069"
 	  to="14.5898"
-	  dur="1s"
+	  dur="2s"
 	  begin="rectangle4animate3.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  attributeName="x"
-	  from="81.3932"
-	  to="66.8034"
-	  dur="1s"
+	  from="77.3932"
+	  to="62.8034"
+	  dur="2s"
 	  begin="rectangle4animate3.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  id="rectangle4animate4"
 	  attributeName="y"
-	  values="105"
-	  dur="1s"
+	  values="101"
+	  dur="2s"
 	  begin="rectangle4animate3.end"
 	  fill="freeze" />
 <!--animation end-->
  <animate
 	  xlink:href="#rectangle8"
+	  id="endanimate"
+	  attributeName="fill"
+	  values="yellow"
+	  dur="2s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle8"
+	  id="endanimate"
 	  attributeName="fill"
 	  values="red"
 	  dur="0s"
-	  begin="rectangle4animate4.end"
+	  begin="endanimate.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle2"
 	  attributeName="width"
 	  values="0"
 	  dur="0s"
-	  begin="rectangle4animate4.end"
+	  begin="endanimate.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle3"
 	  attributeName="width"
 	  values="0"
 	  dur="0s"
-	  begin="rectangle4animate4.end"
+	  begin="endanimate.end"
 	  fill="freeze" />
  <animate
 	  xlink:href="#rectangle4"
 	  attributeName="width"
 	  values="0"
 	  dur="0s"
-	  begin="rectangle4animate4.end"
+	  begin="endanimate.end"
 	  fill="freeze" />
 </svg>
 
