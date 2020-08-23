@@ -12,13 +12,13 @@ Here's an example of the famous Golden Ratio as a simple recursive cellular auto
 
 * How to approximate [1 + sqrt(7)](https://oeis.org/A297189) with a natural number sequence.
 
-* How to approximate [1 + 2*sqrt(2)](https://oeis.org/A328604) with a natural number sequence.
+* How to approximate [1 + 2*sqrt(2)](https://oeis.org/A164544) with a natural number sequence.
 
-* How to approximate [1 + sqrt(10)](https://oeis.org/A328605) with a natural number sequence.
+* How to approximate [1 + sqrt(10)](https://oeis.org/A328604) with a natural number sequence.
 
-* How to approximate [1 + sqrt(11)](https://oeis.org/A328606) with a natural number sequence.
+* How to approximate [1 + sqrt(11)](https://oeis.org/A328605) with a natural number sequence.
 
-* How to approximate [1 + 2*sqrt(3)](https://oeis.org/A164544) with a natural number sequence.
+* How to approximate [1 + 2*sqrt(3)](https://oeis.org/A328606) with a natural number sequence.
 
 * How to approximate [1 + 3*sqrt(2)](https://oeis.org/A330390) with a natural number sequence.
 
