@@ -1,0 +1,408 @@
+<svg 
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1" 
+	viewBox="0 0 110 171.8034"
+	fill="none" >
+<!--static objects-->
+  <rect
+	  id="rectangle0"
+	  width="110"
+	  height="171.8034"
+	  x="0"
+	  y="0"
+	  stroke="black"
+	  stroke-width="10" />
+  <rect
+	  id="rectangle8"
+	  width="100"
+	  height="100"
+	  x="5"
+	  y="5"
+	  fill="blue" />
+<!--dynamic objects-->
+  <rect
+	  id="rectangle1"
+	  width="0"
+	  height="0"
+	  fill="blue" />
+  <rect
+	  id="rectangle2"
+	  width="0"
+	  height="0"
+	  fill="red" />
+  <rect
+	  id="rectangle3"
+	  width="0"
+	  height="0"
+	  fill="green" />
+  <rect
+	  id="rectangle4"
+	  width="0"
+	  height="0"
+	  fill="purple" />
+<!--object 1 animation-->
+ <animate
+	  xlink:href="#rectangle8"
+	  attributeName="fill"
+	  values="red"
+	  dur="0s"
+	  begin="rectangle8.click"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle1"
+	  attributeName="width"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle8.click"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle1"
+	  attributeName="height"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle8.click"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle1"
+	  attributeName="x"
+	  values="5"
+	  dur="1s"
+	  begin="rectangle8.click"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle1"
+	  id="rectangle1animate1"
+	  attributeName="y"
+	  from="5"
+	  to="105"
+	  dur="1s"
+	  begin="rectangle8.click"
+	  fill="freeze" />
+<!--object 2 animation-->
+ <animate
+	  xlink:href="#rectangle8"
+	  attributeName="fill"
+	  values="green"
+	  dur="0s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle2"
+	  attributeName="height"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle2"
+	  attributeName="x"
+	  values="5"
+	  dur="1s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle2"
+	  id="rectangle2animate1"
+	  attributeName="y"
+	  from="5"
+	  to="105"
+	  dur="1s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+<!---->
+ <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  from="61.8034"
+	  to="38.1966"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle2"
+	  attributeName="height"
+	  from="61.8034"
+	  to="38.1966"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle2"
+	  attributeName="x"
+	  from="5"
+	  to="66.8034"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle2"
+	  id="rectangle2animate2"
+	  attributeName="y"
+	  from="105"
+	  to="128.6068"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+<!--object 3 animation-->
+ <animate
+	  xlink:href="#rectangle8"
+	  attributeName="fill"
+	  values="purple"
+	  dur="0s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  values="5"
+	  dur="1s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate1"
+	  attributeName="y"
+	  from="5"
+	  to="105"
+	  dur="1s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+<!---->
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="61.8034"
+	  to="38.1966"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="61.8034"
+	  to="38.1966"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="5"
+	  to="66.8034"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate2"
+	  attributeName="y"
+	  from="105"
+	  to="128.6068"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+<!---->
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="38.1966"
+	  to="23.6068"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="38.1966"
+	  to="23.6069"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="66.8034"
+	  to="81.3932"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate3"
+	  attributeName="y"
+	  from="128.6068"
+	  to="105"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+<!--object 4 animation-->
+ <animate
+	  xlink:href="#rectangle8"
+	  attributeName="fill"
+	  values="yellow"
+	  dur="0s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="100"
+	  to="61.8034"
+	  dur="1s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  values="5"
+	  dur="1s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate1"
+	  attributeName="y"
+	  from="5"
+	  to="105"
+	  dur="1s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+<!---->
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="61.8034"
+	  to="38.1966"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="61.8034"
+	  to="38.1966"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="5"
+	  to="66.8034"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate2"
+	  attributeName="y"
+	  from="105"
+	  to="128.6068"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+<!---->
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="38.1966"
+	  to="23.6068"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="38.1966"
+	  to="23.6069"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="66.8034"
+	  to="81.3932"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate3"
+	  attributeName="y"
+	  from="128.6068"
+	  to="105"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+<!---->
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="23.6068"
+	  to="14.5898"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="23.6069"
+	  to="14.5898"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="81.3932"
+	  to="66.8034"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+ <animate
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate4"
+	  attributeName="y"
+	  from="128.6068"
+	  to="105"
+	  dur="1s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+</svg>
