@@ -1,6 +1,6 @@
 ### Hello visitor!  👋
 
-My work for the past few years has focused on the intersection of non-halting mathematics and computer science. 
+My focus for the past few years has been on the intersection of non-halting mathematics and computer science. 
 
 In other words, how can we better understand and leverage recursive patterns? 
 
