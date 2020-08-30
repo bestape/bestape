@@ -1,0 +1,4214 @@
+<svg 
+	xmlns="http://www.w3.org/2000/svg"
+ 	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1"
+	viewBox="-20 -20 1242 1842"
+	fill="none" >
+  <!-- static objects -->
+  <rect
+	  id="rectangle0"
+	  width="1202"
+	  height="1802"
+	  x="0"
+	  y="0"
+	  stroke="black"
+	  stroke-width="2" />
+  <rect
+	  id="rectangle14"
+	  width="1200"
+	  height="1000"
+	  x="1"
+	  y="1"
+	  fill="undefined" />
+  <!-- dynamic objects -->
+  <rect
+	  id="rectangle1"
+	  width="0"
+	  height="0"
+	  fill="tomato" />
+  <rect
+	  id="rectangle2"
+	  width="0"
+	  height="0"
+	  fill="burlywood" />
+  <rect
+	  id="rectangle3"
+	  width="0"
+	  height="0"
+	  fill="mediumseagreen" />
+  <rect
+	  id="rectangle4"
+	  width="0"
+	  height="0"
+	  fill="darkmagenta" />
+  <rect
+	  id="rectangle5"
+	  width="0"
+	  height="0"
+	  fill="mediumseagreen" />
+  <rect
+	  id="rectangle6"
+	  width="0"
+	  height="0"
+	  fill="darkmagenta" />
+  <rect
+	  id="rectangle7"
+	  width="0"
+	  height="0"
+	  fill="tomato" />
+  <rect
+	  id="rectangle8"
+	  width="0"
+	  height="0"
+	  fill="burlywood" />
+  <rect
+	  id="rectangle9"
+	  width="0"
+	  height="0"
+	  fill="tomato" />
+  <rect
+	  id="rectangle10"
+	  width="0"
+	  height="0"
+	  fill="burlywood" />
+  <rect
+	  id="rectangle11"
+	  width="0"
+	  height="0"
+	  fill="mediumseagreen" />
+  <rect
+	  id="rectangle12"
+	  width="0"
+	  height="0"
+	  fill="darkmagenta" />
+  <rect
+	  id="rectangle13"
+	  width="0"
+	  height="0"
+	  fill="mediumseagreen" />
+<!-- next dynamic object automation -->
+<!-- rectangle1 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="burlywood"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle1"
+	  id="rectangle1animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle2 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="mediumseagreen"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle2"
+	  id="rectangle2animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle2 animate2 -->
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle2"
+	  id="rectangle2animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle3 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="darkmagenta"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle3 animate2 -->
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+<!-- rectangle3 animate3 -->
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle4 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="mediumseagreen"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle4 animate2 -->
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+<!-- rectangle4 animate3 -->
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <!-- rectangle4 animate4 -->
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle5 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="darkmagenta"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle5 animate2 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+<!-- rectangle5 animate3 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <!-- rectangle5 animate4 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+<!-- rectangle5 animate5 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle6 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="tomato"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle6 animate2 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+<!-- rectangle6 animate3 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <!-- rectangle6 animate4 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+<!-- rectangle6 animate5 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <!-- rectangle6 animate6 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle7 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="burlywood"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle7 animate2 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+<!-- rectangle7 animate3 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <!-- rectangle7 animate4 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+<!-- rectangle7 animate5 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <!-- rectangle7 animate6 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+<!-- rectangle7 animate7 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="105.34979423868312"
+	  to="70.23319615912207"
+	  dur="1s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="87.7914951989026"
+	  to="58.52766346593506"
+	  dur="1s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1268.764060356653"
+	  to="846.1760402377686"
+	  dur="1s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle8 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="tomato"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle8 animate2 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+<!-- rectangle8 animate3 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <!-- rectangle8 animate4 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+<!-- rectangle8 animate5 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <!-- rectangle8 animate6 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+<!-- rectangle8 animate7 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="105.34979423868312"
+	  to="70.23319615912207"
+	  dur="1s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="87.7914951989026"
+	  to="58.52766346593506"
+	  dur="1s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1268.764060356653"
+	  to="846.1760402377686"
+	  dur="1s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <!-- rectangle8 animate8 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="58.52766346593506"
+	  to="39.01844231062338"
+	  dur="1s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="70.23319615912207"
+	  to="46.82213077274805"
+	  dur="1s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="846.1760402377686"
+	  to="-1237.5493065081544"
+	  dur="1s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle9 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="burlywood"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle9 animate2 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+<!-- rectangle9 animate3 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <!-- rectangle9 animate4 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+<!-- rectangle9 animate5 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <!-- rectangle9 animate6 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+<!-- rectangle9 animate7 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="105.34979423868312"
+	  to="70.23319615912207"
+	  dur="1s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="87.7914951989026"
+	  to="58.52766346593506"
+	  dur="1s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1268.764060356653"
+	  to="846.1760402377686"
+	  dur="1s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <!-- rectangle9 animate8 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="58.52766346593506"
+	  to="39.01844231062338"
+	  dur="1s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="70.23319615912207"
+	  to="46.82213077274805"
+	  dur="1s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="846.1760402377686"
+	  to="-1237.5493065081544"
+	  dur="1s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+<!-- rectangle9 animate9 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="46.82213077274805"
+	  to="31.2147538484987"
+	  dur="1s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="39.01844231062338"
+	  to="26.012294873748914"
+	  dur="1s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle10 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="mediumseagreen"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle10 animate2 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+<!-- rectangle10 animate3 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <!-- rectangle10 animate4 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+<!-- rectangle10 animate5 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <!-- rectangle10 animate6 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+<!-- rectangle10 animate7 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="105.34979423868312"
+	  to="70.23319615912207"
+	  dur="1s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="87.7914951989026"
+	  to="58.52766346593506"
+	  dur="1s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1268.764060356653"
+	  to="846.1760402377686"
+	  dur="1s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <!-- rectangle10 animate8 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="58.52766346593506"
+	  to="39.01844231062338"
+	  dur="1s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="70.23319615912207"
+	  to="46.82213077274805"
+	  dur="1s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="846.1760402377686"
+	  to="-1237.5493065081544"
+	  dur="1s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+<!-- rectangle10 animate9 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="46.82213077274805"
+	  to="31.2147538484987"
+	  dur="1s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="39.01844231062338"
+	  to="26.012294873748914"
+	  dur="1s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <!-- rectangle10 animate10 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="26.012294873748914"
+	  to="17.34152991583261"
+	  dur="1s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="31.2147538484987"
+	  to="20.809835898999133"
+	  dur="1s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1237.5493065081544"
+	  to="825.3662043387694"
+	  dur="1s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle11 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="darkmagenta"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle11 animate2 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+<!-- rectangle11 animate3 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <!-- rectangle11 animate4 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+<!-- rectangle11 animate5 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <!-- rectangle11 animate6 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+<!-- rectangle11 animate7 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="105.34979423868312"
+	  to="70.23319615912207"
+	  dur="1s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="87.7914951989026"
+	  to="58.52766346593506"
+	  dur="1s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1268.764060356653"
+	  to="846.1760402377686"
+	  dur="1s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <!-- rectangle11 animate8 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="58.52766346593506"
+	  to="39.01844231062338"
+	  dur="1s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="70.23319615912207"
+	  to="46.82213077274805"
+	  dur="1s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="846.1760402377686"
+	  to="-1237.5493065081544"
+	  dur="1s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+<!-- rectangle11 animate9 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="46.82213077274805"
+	  to="31.2147538484987"
+	  dur="1s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="39.01844231062338"
+	  to="26.012294873748914"
+	  dur="1s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <!-- rectangle11 animate10 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="26.012294873748914"
+	  to="17.34152991583261"
+	  dur="1s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="31.2147538484987"
+	  to="20.809835898999133"
+	  dur="1s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1237.5493065081544"
+	  to="825.3662043387694"
+	  dur="1s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+<!-- rectangle11 animate11 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="20.809835898999133"
+	  to="13.873223932666088"
+	  dur="1s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="17.34152991583261"
+	  to="11.561019943888407"
+	  dur="1s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="825.3662043387694"
+	  to="-1251.4225304408205"
+	  dur="1s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1251.4225304408205"
+	  to="834.6150202938802"
+	  dur="1s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle12 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="mediumseagreen"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle12 animate2 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+<!-- rectangle12 animate3 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <!-- rectangle12 animate4 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+<!-- rectangle12 animate5 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <!-- rectangle12 animate6 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+<!-- rectangle12 animate7 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="105.34979423868312"
+	  to="70.23319615912207"
+	  dur="1s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="87.7914951989026"
+	  to="58.52766346593506"
+	  dur="1s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1268.764060356653"
+	  to="846.1760402377686"
+	  dur="1s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <!-- rectangle12 animate8 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="58.52766346593506"
+	  to="39.01844231062338"
+	  dur="1s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="70.23319615912207"
+	  to="46.82213077274805"
+	  dur="1s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="846.1760402377686"
+	  to="-1237.5493065081544"
+	  dur="1s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+<!-- rectangle12 animate9 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="46.82213077274805"
+	  to="31.2147538484987"
+	  dur="1s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="39.01844231062338"
+	  to="26.012294873748914"
+	  dur="1s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <!-- rectangle12 animate10 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="26.012294873748914"
+	  to="17.34152991583261"
+	  dur="1s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="31.2147538484987"
+	  to="20.809835898999133"
+	  dur="1s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1237.5493065081544"
+	  to="825.3662043387694"
+	  dur="1s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+<!-- rectangle12 animate11 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="20.809835898999133"
+	  to="13.873223932666088"
+	  dur="1s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="17.34152991583261"
+	  to="11.561019943888407"
+	  dur="1s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="825.3662043387694"
+	  to="-1251.4225304408205"
+	  dur="1s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1251.4225304408205"
+	  to="834.6150202938802"
+	  dur="1s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <!-- rectangle12 animate12 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="11.561019943888407"
+	  to="7.707346629258938"
+	  dur="1s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="13.873223932666088"
+	  to="9.248815955110725"
+	  dur="1s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="834.6150202938802"
+	  to="-1245.2566531374132"
+	  dur="1s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1237.5493065081544"
+	  to="825.3662043387694"
+	  dur="1s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate12"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle13 animate1 -->
+  <animate
+	  xlink:href="#rectangle14"
+	  attributeName="fill"
+	  values="burlywood"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="1200"
+	  to="800"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="1000"
+	  to="666.6666666666666"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <!-- rectangle13 animate2 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="666.6666666666666"
+	  to="444.4444444444444"
+	  dur="1s"
+	  begin="rectangle13animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="800"
+	  to="533.3333333333333"
+	  dur="1s"
+	  begin="rectangle13animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="1"
+	  to="-1801"
+	  dur="1s"
+	  begin="rectangle13animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle13animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate1.end"
+	  fill="freeze" />
+<!-- rectangle13 animate3 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="533.3333333333333"
+	  to="355.55555555555554"
+	  dur="1s"
+	  begin="rectangle13animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="444.4444444444444"
+	  to="296.2962962962963"
+	  dur="1s"
+	  begin="rectangle13animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle13animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1356.5555555555557"
+	  to="904.7037037037037"
+	  dur="1s"
+	  begin="rectangle13animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate2.end"
+	  fill="freeze" />
+  <!-- rectangle13 animate4 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="296.2962962962963"
+	  to="197.53086419753086"
+	  dur="1s"
+	  begin="rectangle13animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="355.55555555555554"
+	  to="237.037037037037"
+	  dur="1s"
+	  begin="rectangle13animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="904.7037037037037"
+	  to="-1198.530864197531"
+	  dur="1s"
+	  begin="rectangle13animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle13animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate3.end"
+	  fill="freeze" />
+<!-- rectangle13 animate5 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="237.037037037037"
+	  to="158.02469135802468"
+	  dur="1s"
+	  begin="rectangle13animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="197.53086419753086"
+	  to="131.6872427983539"
+	  dur="1s"
+	  begin="rectangle13animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle13animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1001"
+	  to="667.6666666666666"
+	  dur="1s"
+	  begin="rectangle13animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate4.end"
+	  fill="freeze" />
+  <!-- rectangle13 animate6 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="131.6872427983539"
+	  to="87.7914951989026"
+	  dur="1s"
+	  begin="rectangle13animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="158.02469135802468"
+	  to="105.34979423868312"
+	  dur="1s"
+	  begin="rectangle13animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="667.6666666666666"
+	  to="-1356.5555555555557"
+	  dur="1s"
+	  begin="rectangle13animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle13animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate5.end"
+	  fill="freeze" />
+<!-- rectangle13 animate7 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="105.34979423868312"
+	  to="70.23319615912207"
+	  dur="1s"
+	  begin="rectangle13animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="87.7914951989026"
+	  to="58.52766346593506"
+	  dur="1s"
+	  begin="rectangle13animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle13animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1268.764060356653"
+	  to="846.1760402377686"
+	  dur="1s"
+	  begin="rectangle13animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate6.end"
+	  fill="freeze" />
+  <!-- rectangle13 animate8 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="58.52766346593506"
+	  to="39.01844231062338"
+	  dur="1s"
+	  begin="rectangle13animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="70.23319615912207"
+	  to="46.82213077274805"
+	  dur="1s"
+	  begin="rectangle13animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="846.1760402377686"
+	  to="-1237.5493065081544"
+	  dur="1s"
+	  begin="rectangle13animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle13animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate7.end"
+	  fill="freeze" />
+<!-- rectangle13 animate9 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="46.82213077274805"
+	  to="31.2147538484987"
+	  dur="1s"
+	  begin="rectangle13animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="39.01844231062338"
+	  to="26.012294873748914"
+	  dur="1s"
+	  begin="rectangle13animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle13animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1198.530864197531"
+	  to="799.3539094650205"
+	  dur="1s"
+	  begin="rectangle13animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate8.end"
+	  fill="freeze" />
+  <!-- rectangle13 animate10 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="26.012294873748914"
+	  to="17.34152991583261"
+	  dur="1s"
+	  begin="rectangle13animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="31.2147538484987"
+	  to="20.809835898999133"
+	  dur="1s"
+	  begin="rectangle13animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="799.3539094650205"
+	  to="-1268.764060356653"
+	  dur="1s"
+	  begin="rectangle13animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1237.5493065081544"
+	  to="825.3662043387694"
+	  dur="1s"
+	  begin="rectangle13animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate9.end"
+	  fill="freeze" />
+<!-- rectangle13 animate11 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="20.809835898999133"
+	  to="13.873223932666088"
+	  dur="1s"
+	  begin="rectangle13animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="17.34152991583261"
+	  to="11.561019943888407"
+	  dur="1s"
+	  begin="rectangle13animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="825.3662043387694"
+	  to="-1251.4225304408205"
+	  dur="1s"
+	  begin="rectangle13animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1251.4225304408205"
+	  to="834.6150202938802"
+	  dur="1s"
+	  begin="rectangle13animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate10.end"
+	  fill="freeze" />
+  <!-- rectangle13 animate12 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="11.561019943888407"
+	  to="7.707346629258938"
+	  dur="1s"
+	  begin="rectangle13animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="13.873223932666088"
+	  to="9.248815955110725"
+	  dur="1s"
+	  begin="rectangle13animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="834.6150202938802"
+	  to="-1245.2566531374132"
+	  dur="1s"
+	  begin="rectangle13animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1237.5493065081544"
+	  to="825.3662043387694"
+	  dur="1s"
+	  begin="rectangle13animate11.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate12"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate11.end"
+	  fill="freeze" />
+<!-- rectangle13 animate13 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  from="9.248815955110725"
+	  to="6.165877303407149"
+	  dur="1s"
+	  begin="rectangle13animate12.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="height"
+	  from="7.707346629258938"
+	  to="5.138231086172625"
+	  dur="1s"
+	  begin="rectangle13animate12.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="x"
+	  from="825.3662043387694"
+	  to="-1251.4225304408205"
+	  dur="1s"
+	  begin="rectangle13animate12.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="y"
+	  from="1237.5493065081544"
+	  to="825.3662043387694"
+	  dur="1s"
+	  begin="rectangle13animate12.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle13"
+	  id="rectangle13animate13"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="1s"
+	  begin="rectangle13animate12.end"
+	  fill="freeze" />
+  <!-- animation end -->
+  <animate
+	  xlink:href="#rectangle14"
+	  id="resetAnimate"
+	  attributeName="fill"
+	  values="burlywood"
+	  dur="1s"
+	  begin="rectangle13animate13.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle14"
+	  id="endAnimate"
+	  attributeName="fill"
+	  values="mediumseagreen"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="width"
+	  values="0"
+	  dur="1s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+</svg>
