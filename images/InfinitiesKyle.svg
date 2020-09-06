@@ -46,7 +46,7 @@
 	  stroke="black"
 	  stroke-width="1"
 	  fill="yellowgreen" />
-  <image
+  <img
 	  id="rectangle4"
 	  width="0"
 	  height="0"
