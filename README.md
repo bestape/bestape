@@ -2,7 +2,7 @@
 
 <p align="center">
 
-   <img src="https://github.com/bestape/bestape/blob/master/images/caterpill.svg?raw=true" width="50%">
+   <img src="https://github.com/bestape/bestape/blob/master/images/caterpill.svg?raw=true" width="100%">
 
 </p>
 
