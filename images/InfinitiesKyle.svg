@@ -653,7 +653,7 @@
   <animate
 	  xlink:href="#rectangle5"
 	  attributeName="href"
-	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  values="https://64.media.tumblr.com/7a3c5ecd4fa39c4f0190b5f18bf20a18/267d9074b39196b3-d3/s400x600/e5c0da64354cc2af2d2bdc8a6742241675dfce99.jpg"
 	  dur="0s"
 	  begin="rectangle4animate4.end"
 	  fill="freeze" />
@@ -703,7 +703,7 @@
   <animate
 	  xlink:href="#rectangle5"
 	  attributeName="href"
-	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  values="https://64.media.tumblr.com/7a3c5ecd4fa39c4f0190b5f18bf20a18/267d9074b39196b3-d3/s400x600/e5c0da64354cc2af2d2bdc8a6742241675dfce99.jpg"
 	  dur="0s"
 	  begin="rectangle5animate1.end"
 	  fill="freeze" />
@@ -752,8 +752,8 @@
 <!-- rectangle5 animate3 -->
   <animate
 	  xlink:href="#rectangle5"
-	  attributeName="href"
-	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  attributeName="src"
+	  values="https://64.media.tumblr.com/7a3c5ecd4fa39c4f0190b5f18bf20a18/267d9074b39196b3-d3/s400x600/e5c0da64354cc2af2d2bdc8a6742241675dfce99.jpg"
 	  dur="0s"
 	  begin="rectangle5animate2.end"
 	  fill="freeze" />
