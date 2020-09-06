@@ -10,9 +10,3502 @@
 	  height="727"
 	  x="-759.427"
 	  y="-50"
-	  fill="coral"
+	  fill="blueviolet"
 	  stroke="black"
 	  stroke-width="2" />
+  <!-- static rightRectangle objects -->
+  <rect
+	  id="rightRectangle0"
+	  width="602"
+	  height="627"
+	  x="-681.25"
+	  y="0"
+	  fill="navajowhite"
+	  stroke="black"
+	  stroke-width="2" />
+  <rect
+	  id="rightRectangle13"
+	  width="600"
+	  height="49"
+	  x="-680.25"
+	  y="1"
+	  fill="gold"
+	  stroke="black"
+	  stroke-width="1" />
+  <!-- dynamic rightRectangle objects -->
+  <rect
+	  id="rightRectangle1"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <rect
+	  id="rightRectangle2"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+  <rect
+	  id="rightRectangle3"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="yellowgreen" />
+  <rect
+	  id="rightRectangle4"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="turquoise" />
+  <rect
+	  id="rightRectangle5"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="violet" />
+  <rect
+	  id="rightRectangle6"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <rect
+	  id="rightRectangle7"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+  <rect
+	  id="rightRectangle8"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="yellowgreen" />
+  <rect
+	  id="rightRectangle9"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="turquoise" />
+  <rect
+	  id="rightRectangle10"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="violet" />
+  <rect
+	  id="rightRectangle11"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <rect
+	  id="rightRectangle12"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle1 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle1"
+	  attributeName="width"
+	  from="600"
+	  to="576"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle1"
+	  attributeName="height"
+	  from="49"
+	  to="47.04"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle1"
+	  attributeName="x"
+	  from="-680.25"
+	  to="-626"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle1"
+	  attributeName="y"
+	  from="1"
+	  to="-680.25"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle1"
+	  id="rightRectangle1animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle2 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle2"
+	  id="rightRectangle2animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle2 animate2 -->
+  <animate
+	  href="#rightRectangle2"
+	  attributeName="width"
+	  from="47.04"
+	  to="45.1584"
+	  dur="2s"
+	  begin="rightRectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle2"
+	  attributeName="height"
+	  from="576"
+	  to="552.96"
+	  dur="2s"
+	  begin="rightRectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle2"
+	  attributeName="x"
+	  from="-680.25"
+	  to="-626"
+	  dur="2s"
+	  begin="rightRectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle2"
+	  attributeName="y"
+	  from="50"
+	  to="-633.21"
+	  dur="2s"
+	  begin="rightRectangle2animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle2"
+	  id="rightRectangle2animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle2animate1.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle3 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle3"
+	  id="rightRectangle3animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle3 animate2 -->
+  <animateTransform
+	  href="#rightRectangle3"
+	  id="rightRectangle3animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle3animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle3 animate3 -->
+  <animate
+	  href="#rightRectangle3"
+	  attributeName="width"
+	  from="552.96"
+	  to="530.8416"
+	  dur="2s"
+	  begin="rightRectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle3"
+	  attributeName="height"
+	  from="45.1584"
+	  to="43.352064"
+	  dur="2s"
+	  begin="rightRectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle3"
+	  attributeName="x"
+	  from="-633.21"
+	  to="-580.8416"
+	  dur="2s"
+	  begin="rightRectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle3"
+	  attributeName="y"
+	  from="580.8416"
+	  to="-123.60206400000004"
+	  dur="2s"
+	  begin="rightRectangle3animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle3"
+	  id="rightRectangle3animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle3animate2.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle4 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle4"
+	  id="rightRectangle4animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle4 animate2 -->
+  <animateTransform
+	  href="#rightRectangle4"
+	  id="rightRectangle4animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle4animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle4 animate3 -->
+  <animateTransform
+	  href="#rightRectangle4"
+	  id="rightRectangle4animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle4animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle4 animate4 -->
+  <animate
+	  href="#rightRectangle4"
+	  attributeName="width"
+	  from="43.352064"
+	  to="41.61798144"
+	  dur="2s"
+	  begin="rightRectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle4"
+	  attributeName="height"
+	  from="530.8416"
+	  to="509.607936"
+	  dur="2s"
+	  begin="rightRectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle4"
+	  attributeName="x"
+	  from="-123.60206400000004"
+	  to="-91.61798144"
+	  dur="2s"
+	  begin="rightRectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle4"
+	  attributeName="y"
+	  from="50"
+	  to="-633.21"
+	  dur="2s"
+	  begin="rightRectangle4animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle4"
+	  id="rightRectangle4animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle4animate3.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle5 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="gold"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle5"
+	  id="rightRectangle5animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle5 animate2 -->
+  <animateTransform
+	  href="#rightRectangle5"
+	  id="rightRectangle5animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle5animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle5 animate3 -->
+  <animateTransform
+	  href="#rightRectangle5"
+	  id="rightRectangle5animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle5animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle5 animate4 -->
+  <animateTransform
+	  href="#rightRectangle5"
+	  id="rightRectangle5animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle5animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle5 animate5 -->
+  <animate
+	  href="#rightRectangle5"
+	  attributeName="width"
+	  from="509.607936"
+	  to="489.22361856"
+	  dur="2s"
+	  begin="rightRectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle5"
+	  attributeName="height"
+	  from="41.61798144"
+	  to="39.953262182399996"
+	  dur="2s"
+	  begin="rightRectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle5"
+	  attributeName="x"
+	  from="-633.21"
+	  to="-580.8416"
+	  dur="2s"
+	  begin="rightRectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle5"
+	  attributeName="y"
+	  from="50"
+	  to="-633.21"
+	  dur="2s"
+	  begin="rightRectangle5animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle5"
+	  id="rightRectangle5animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle5animate4.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle6 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle6"
+	  id="rightRectangle6animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle6 animate2 -->
+  <animateTransform
+	  href="#rightRectangle6"
+	  id="rightRectangle6animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle6animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle6 animate3 -->
+  <animateTransform
+	  href="#rightRectangle6"
+	  id="rightRectangle6animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle6animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle6 animate4 -->
+  <animateTransform
+	  href="#rightRectangle6"
+	  id="rightRectangle6animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle6animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle6 animate5 -->
+  <animateTransform
+	  href="#rightRectangle6"
+	  id="rightRectangle6animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle6animate4.end"
+	  fill="freeze" />
+<!-- rightRectangle6 animate6 -->
+  <animate
+	  href="#rightRectangle6"
+	  attributeName="width"
+	  from="39.953262182399996"
+	  to="38.355131695104"
+	  dur="2s"
+	  begin="rightRectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle6"
+	  attributeName="height"
+	  from="489.22361856"
+	  to="469.6546738176"
+	  dur="2s"
+	  begin="rightRectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle6"
+	  attributeName="x"
+	  from="-633.21"
+	  to="-580.8416"
+	  dur="2s"
+	  begin="rightRectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle6"
+	  attributeName="y"
+	  from="91.61798144"
+	  to="-593.2567378176001"
+	  dur="2s"
+	  begin="rightRectangle6animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle6"
+	  id="rightRectangle6animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle6animate5.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle7 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle7"
+	  id="rightRectangle7animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle7 animate2 -->
+  <animateTransform
+	  href="#rightRectangle7"
+	  id="rightRectangle7animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle7animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle7 animate3 -->
+  <animateTransform
+	  href="#rightRectangle7"
+	  id="rightRectangle7animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle7animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle7 animate4 -->
+  <animateTransform
+	  href="#rightRectangle7"
+	  id="rightRectangle7animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle7animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle7 animate5 -->
+  <animateTransform
+	  href="#rightRectangle7"
+	  id="rightRectangle7animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle7animate4.end"
+	  fill="freeze" />
+<!-- rightRectangle7 animate6 -->
+  <animateTransform
+	  href="#rightRectangle7"
+	  id="rightRectangle7animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle7animate5.end"
+	  fill="freeze" />
+<!-- rightRectangle7 animate7 -->
+  <animate
+	  href="#rightRectangle7"
+	  attributeName="width"
+	  from="469.6546738176"
+	  to="450.86848686489594"
+	  dur="2s"
+	  begin="rightRectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle7"
+	  attributeName="height"
+	  from="38.355131695104"
+	  to="36.82092642729984"
+	  dur="2s"
+	  begin="rightRectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle7"
+	  attributeName="x"
+	  from="-593.2567378176001"
+	  to="-542.486468304896"
+	  dur="2s"
+	  begin="rightRectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle7"
+	  attributeName="y"
+	  from="542.486468304896"
+	  to="-160.42299042729988"
+	  dur="2s"
+	  begin="rightRectangle7animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle7"
+	  id="rightRectangle7animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle7animate6.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle8 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle8 animate2 -->
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle8animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle8 animate3 -->
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle8animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle8 animate4 -->
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle8animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle8 animate5 -->
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle8animate4.end"
+	  fill="freeze" />
+<!-- rightRectangle8 animate6 -->
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle8animate5.end"
+	  fill="freeze" />
+<!-- rightRectangle8 animate7 -->
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle8animate6.end"
+	  fill="freeze" />
+<!-- rightRectangle8 animate8 -->
+  <animate
+	  href="#rightRectangle8"
+	  attributeName="width"
+	  from="36.82092642729984"
+	  to="35.348089370207845"
+	  dur="2s"
+	  begin="rightRectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle8"
+	  attributeName="height"
+	  from="450.86848686489594"
+	  to="432.8337473903002"
+	  dur="2s"
+	  begin="rightRectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle8"
+	  attributeName="x"
+	  from="-160.42299042729988"
+	  to="-126.96607081020784"
+	  dur="2s"
+	  begin="rightRectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle8"
+	  attributeName="y"
+	  from="91.61798144"
+	  to="-593.2567378176001"
+	  dur="2s"
+	  begin="rightRectangle8animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle8"
+	  id="rightRectangle8animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle8animate7.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle9 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate2 -->
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate3 -->
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate4 -->
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate5 -->
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate4.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate6 -->
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate5.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate7 -->
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate6.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate8 -->
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate7.end"
+	  fill="freeze" />
+<!-- rightRectangle9 animate9 -->
+  <animate
+	  href="#rightRectangle9"
+	  attributeName="width"
+	  from="432.8337473903002"
+	  to="415.52039749468815"
+	  dur="2s"
+	  begin="rightRectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle9"
+	  attributeName="height"
+	  from="35.348089370207845"
+	  to="33.93416579539954"
+	  dur="2s"
+	  begin="rightRectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle9"
+	  attributeName="x"
+	  from="-593.2567378176001"
+	  to="-542.486468304896"
+	  dur="2s"
+	  begin="rightRectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle9"
+	  attributeName="y"
+	  from="91.61798144"
+	  to="-593.2567378176001"
+	  dur="2s"
+	  begin="rightRectangle9animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle9"
+	  id="rightRectangle9animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle9animate8.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle10 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="gold"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate2 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate3 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate4 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate5 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate4.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate6 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate5.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate7 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate6.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate8 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate7.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate9 -->
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate8.end"
+	  fill="freeze" />
+<!-- rightRectangle10 animate10 -->
+  <animate
+	  href="#rightRectangle10"
+	  attributeName="width"
+	  from="33.93416579539954"
+	  to="32.57679916358355"
+	  dur="2s"
+	  begin="rightRectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle10"
+	  attributeName="height"
+	  from="415.52039749468815"
+	  to="398.8995815949006"
+	  dur="2s"
+	  begin="rightRectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle10"
+	  attributeName="x"
+	  from="-593.2567378176001"
+	  to="-542.486468304896"
+	  dur="2s"
+	  begin="rightRectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle10"
+	  attributeName="y"
+	  from="126.96607081020784"
+	  to="-559.3225720222006"
+	  dur="2s"
+	  begin="rightRectangle10animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle10"
+	  id="rightRectangle10animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle10animate9.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle11 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate2 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate3 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate4 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate5 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate4.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate6 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate5.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate7 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate6.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate8 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate7.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate9 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate8.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate10 -->
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate9.end"
+	  fill="freeze" />
+<!-- rightRectangle11 animate11 -->
+  <animate
+	  href="#rightRectangle11"
+	  attributeName="width"
+	  from="398.8995815949006"
+	  to="382.9435983311046"
+	  dur="2s"
+	  begin="rightRectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle11"
+	  attributeName="height"
+	  from="32.57679916358355"
+	  to="31.27372719704021"
+	  dur="2s"
+	  begin="rightRectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle11"
+	  attributeName="x"
+	  from="-559.3225720222006"
+	  to="-509.90966914131246"
+	  dur="2s"
+	  begin="rightRectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle11"
+	  attributeName="y"
+	  from="509.90966914131246"
+	  to="-191.6967176243401"
+	  dur="2s"
+	  begin="rightRectangle11animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle11"
+	  id="rightRectangle11animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle11animate10.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rightRectangle12 animate1 -->
+  <animate
+	  href="#rightRectangle13"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; rightRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate2 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate1.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate3 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate2.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate4 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate3.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate5 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate4.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate6 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate5.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate7 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate6.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate8 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate7.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate9 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate8.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate10 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate9.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate11 -->
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate10.end"
+	  fill="freeze" />
+<!-- rightRectangle12 animate12 -->
+  <animate
+	  href="#rightRectangle12"
+	  attributeName="width"
+	  from="31.27372719704021"
+	  to="30.022778109158597"
+	  dur="2s"
+	  begin="rightRectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle12"
+	  attributeName="height"
+	  from="382.9435983311046"
+	  to="367.6258543978604"
+	  dur="2s"
+	  begin="rightRectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle12"
+	  attributeName="x"
+	  from="-191.6967176243401"
+	  to="-156.98884891936643"
+	  dur="2s"
+	  begin="rightRectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle12"
+	  attributeName="y"
+	  from="126.96607081020784"
+	  to="-559.3225720222006"
+	  dur="2s"
+	  begin="rightRectangle12animate11.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#rightRectangle12"
+	  id="rightRectangle12animate12"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rightRectangle12animate11.end"
+	  fill="freeze" />
+  <!-- rightRectangle animation end -->
+  <animate
+	  href="#rightRectangle13"
+	  id="rightRectangleResetAnimate"
+	  attributeName="fill"
+	  values="violet"
+	  dur="2s"
+	  begin="rightRectangle12animate12.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle13"
+	  id="rightRectangleEndAnimate"
+	  attributeName="fill"
+	  values="coral"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle1"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle2"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle3"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle4"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle5"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle6"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle7"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle8"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle9"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle10"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle11"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#rightRectangle12"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="rightRectangleResetAnimate.end"
+	  fill="freeze" />
+<!-- rightRectangle end -->
+  <!-- static leftRectangle objects -->
+  <rect
+	  id="leftRectangle0"
+	  width="602"
+	  height="627"
+	  x="1004"
+	  y="0"
+	  fill="navajowhite"
+	  stroke="black"
+	  stroke-width="2" />
+  <rect
+	  id="leftRectangle15"
+	  width="600"
+	  height="49"
+	  x="1005"
+	  y="1"
+	  fill="gold"
+	  stroke="black"
+	  stroke-width="1" />
+  <!-- dynamic leftRectangle objects -->
+  <rect
+	  id="leftRectangle1"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <rect
+	  id="leftRectangle2"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+  <rect
+	  id="leftRectangle3"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="yellowgreen" />
+  <rect
+	  id="leftRectangle4"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="turquoise" />
+  <rect
+	  id="leftRectangle5"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="violet" />
+  <rect
+	  id="leftRectangle6"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <rect
+	  id="leftRectangle7"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+  <rect
+	  id="leftRectangle8"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="yellowgreen" />
+  <rect
+	  id="leftRectangle9"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="turquoise" />
+  <rect
+	  id="leftRectangle10"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="violet" />
+  <rect
+	  id="leftRectangle11"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <rect
+	  id="leftRectangle12"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+  <rect
+	  id="leftRectangle13"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="yellowgreen" />
+  <rect
+	  id="leftRectangle14"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="turquoise" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle1 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle1"
+	  attributeName="width"
+	  from="600"
+	  to="576"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle1"
+	  attributeName="height"
+	  from="49"
+	  to="47.04"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle1"
+	  attributeName="x"
+	  from="1005"
+	  to="-626"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle1"
+	  attributeName="y"
+	  from="1"
+	  to="1005"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle1"
+	  id="leftRectangle1animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle2 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle2"
+	  id="leftRectangle2animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle2 animate2 -->
+  <animate
+	  href="#leftRectangle2"
+	  attributeName="width"
+	  from="47.04"
+	  to="45.1584"
+	  dur="2s"
+	  begin="leftRectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle2"
+	  attributeName="height"
+	  from="576"
+	  to="552.96"
+	  dur="2s"
+	  begin="leftRectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle2"
+	  attributeName="x"
+	  from="1005"
+	  to="-626"
+	  dur="2s"
+	  begin="leftRectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle2"
+	  attributeName="y"
+	  from="50"
+	  to="1052.04"
+	  dur="2s"
+	  begin="leftRectangle2animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle2"
+	  id="leftRectangle2animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle2animate1.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle3 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle3"
+	  id="leftRectangle3animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle3 animate2 -->
+  <animateTransform
+	  href="#leftRectangle3"
+	  id="leftRectangle3animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle3animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle3 animate3 -->
+  <animate
+	  href="#leftRectangle3"
+	  attributeName="width"
+	  from="552.96"
+	  to="530.8416"
+	  dur="2s"
+	  begin="leftRectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle3"
+	  attributeName="height"
+	  from="45.1584"
+	  to="43.352064"
+	  dur="2s"
+	  begin="leftRectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle3"
+	  attributeName="x"
+	  from="1052.04"
+	  to="-580.8416"
+	  dur="2s"
+	  begin="leftRectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle3"
+	  attributeName="y"
+	  from="580.8416"
+	  to="1561.6479359999998"
+	  dur="2s"
+	  begin="leftRectangle3animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle3"
+	  id="leftRectangle3animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle3animate2.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle4 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle4"
+	  id="leftRectangle4animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle4 animate2 -->
+  <animateTransform
+	  href="#leftRectangle4"
+	  id="leftRectangle4animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle4animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle4 animate3 -->
+  <animateTransform
+	  href="#leftRectangle4"
+	  id="leftRectangle4animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle4animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle4 animate4 -->
+  <animate
+	  href="#leftRectangle4"
+	  attributeName="width"
+	  from="43.352064"
+	  to="41.61798144"
+	  dur="2s"
+	  begin="leftRectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle4"
+	  attributeName="height"
+	  from="530.8416"
+	  to="509.607936"
+	  dur="2s"
+	  begin="leftRectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle4"
+	  attributeName="x"
+	  from="1561.6479359999998"
+	  to="-91.61798144"
+	  dur="2s"
+	  begin="leftRectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle4"
+	  attributeName="y"
+	  from="50"
+	  to="1052.04"
+	  dur="2s"
+	  begin="leftRectangle4animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle4"
+	  id="leftRectangle4animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle4animate3.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle5 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="gold"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle5"
+	  id="leftRectangle5animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle5 animate2 -->
+  <animateTransform
+	  href="#leftRectangle5"
+	  id="leftRectangle5animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle5animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle5 animate3 -->
+  <animateTransform
+	  href="#leftRectangle5"
+	  id="leftRectangle5animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle5animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle5 animate4 -->
+  <animateTransform
+	  href="#leftRectangle5"
+	  id="leftRectangle5animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle5animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle5 animate5 -->
+  <animate
+	  href="#leftRectangle5"
+	  attributeName="width"
+	  from="509.607936"
+	  to="489.22361856"
+	  dur="2s"
+	  begin="leftRectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle5"
+	  attributeName="height"
+	  from="41.61798144"
+	  to="39.953262182399996"
+	  dur="2s"
+	  begin="leftRectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle5"
+	  attributeName="x"
+	  from="1052.04"
+	  to="-580.8416"
+	  dur="2s"
+	  begin="leftRectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle5"
+	  attributeName="y"
+	  from="50"
+	  to="1052.04"
+	  dur="2s"
+	  begin="leftRectangle5animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle5"
+	  id="leftRectangle5animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle5animate4.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle6 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle6"
+	  id="leftRectangle6animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle6 animate2 -->
+  <animateTransform
+	  href="#leftRectangle6"
+	  id="leftRectangle6animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle6animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle6 animate3 -->
+  <animateTransform
+	  href="#leftRectangle6"
+	  id="leftRectangle6animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle6animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle6 animate4 -->
+  <animateTransform
+	  href="#leftRectangle6"
+	  id="leftRectangle6animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle6animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle6 animate5 -->
+  <animateTransform
+	  href="#leftRectangle6"
+	  id="leftRectangle6animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle6animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle6 animate6 -->
+  <animate
+	  href="#leftRectangle6"
+	  attributeName="width"
+	  from="39.953262182399996"
+	  to="38.355131695104"
+	  dur="2s"
+	  begin="leftRectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle6"
+	  attributeName="height"
+	  from="489.22361856"
+	  to="469.6546738176"
+	  dur="2s"
+	  begin="leftRectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle6"
+	  attributeName="x"
+	  from="1052.04"
+	  to="-580.8416"
+	  dur="2s"
+	  begin="leftRectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle6"
+	  attributeName="y"
+	  from="91.61798144"
+	  to="1091.9932621824"
+	  dur="2s"
+	  begin="leftRectangle6animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle6"
+	  id="leftRectangle6animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle6animate5.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle7 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle7"
+	  id="leftRectangle7animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle7 animate2 -->
+  <animateTransform
+	  href="#leftRectangle7"
+	  id="leftRectangle7animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle7animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle7 animate3 -->
+  <animateTransform
+	  href="#leftRectangle7"
+	  id="leftRectangle7animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle7animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle7 animate4 -->
+  <animateTransform
+	  href="#leftRectangle7"
+	  id="leftRectangle7animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle7animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle7 animate5 -->
+  <animateTransform
+	  href="#leftRectangle7"
+	  id="leftRectangle7animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle7animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle7 animate6 -->
+  <animateTransform
+	  href="#leftRectangle7"
+	  id="leftRectangle7animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle7animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle7 animate7 -->
+  <animate
+	  href="#leftRectangle7"
+	  attributeName="width"
+	  from="469.6546738176"
+	  to="450.86848686489594"
+	  dur="2s"
+	  begin="leftRectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle7"
+	  attributeName="height"
+	  from="38.355131695104"
+	  to="36.82092642729984"
+	  dur="2s"
+	  begin="leftRectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle7"
+	  attributeName="x"
+	  from="1091.9932621824"
+	  to="-542.486468304896"
+	  dur="2s"
+	  begin="leftRectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle7"
+	  attributeName="y"
+	  from="542.486468304896"
+	  to="1524.8270095727"
+	  dur="2s"
+	  begin="leftRectangle7animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle7"
+	  id="leftRectangle7animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle7animate6.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle8 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle8 animate2 -->
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle8animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle8 animate3 -->
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle8animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle8 animate4 -->
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle8animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle8 animate5 -->
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle8animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle8 animate6 -->
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle8animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle8 animate7 -->
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle8animate6.end"
+	  fill="freeze" />
+<!-- leftRectangle8 animate8 -->
+  <animate
+	  href="#leftRectangle8"
+	  attributeName="width"
+	  from="36.82092642729984"
+	  to="35.348089370207845"
+	  dur="2s"
+	  begin="leftRectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle8"
+	  attributeName="height"
+	  from="450.86848686489594"
+	  to="432.8337473903002"
+	  dur="2s"
+	  begin="leftRectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle8"
+	  attributeName="x"
+	  from="1524.8270095727"
+	  to="-126.96607081020784"
+	  dur="2s"
+	  begin="leftRectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle8"
+	  attributeName="y"
+	  from="91.61798144"
+	  to="1091.9932621824"
+	  dur="2s"
+	  begin="leftRectangle8animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle8"
+	  id="leftRectangle8animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle8animate7.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle9 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate2 -->
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate3 -->
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate4 -->
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate5 -->
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate6 -->
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate7 -->
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate6.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate8 -->
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate7.end"
+	  fill="freeze" />
+<!-- leftRectangle9 animate9 -->
+  <animate
+	  href="#leftRectangle9"
+	  attributeName="width"
+	  from="432.8337473903002"
+	  to="415.52039749468815"
+	  dur="2s"
+	  begin="leftRectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle9"
+	  attributeName="height"
+	  from="35.348089370207845"
+	  to="33.93416579539954"
+	  dur="2s"
+	  begin="leftRectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle9"
+	  attributeName="x"
+	  from="1091.9932621824"
+	  to="-542.486468304896"
+	  dur="2s"
+	  begin="leftRectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle9"
+	  attributeName="y"
+	  from="91.61798144"
+	  to="1091.9932621824"
+	  dur="2s"
+	  begin="leftRectangle9animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle9"
+	  id="leftRectangle9animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle9animate8.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle10 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="gold"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate2 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate3 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate4 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate5 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate6 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate7 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate6.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate8 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate7.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate9 -->
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate8.end"
+	  fill="freeze" />
+<!-- leftRectangle10 animate10 -->
+  <animate
+	  href="#leftRectangle10"
+	  attributeName="width"
+	  from="33.93416579539954"
+	  to="32.57679916358355"
+	  dur="2s"
+	  begin="leftRectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle10"
+	  attributeName="height"
+	  from="415.52039749468815"
+	  to="398.8995815949006"
+	  dur="2s"
+	  begin="leftRectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle10"
+	  attributeName="x"
+	  from="1091.9932621824"
+	  to="-542.486468304896"
+	  dur="2s"
+	  begin="leftRectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle10"
+	  attributeName="y"
+	  from="126.96607081020784"
+	  to="1125.9274279777997"
+	  dur="2s"
+	  begin="leftRectangle10animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle10"
+	  id="leftRectangle10animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle10animate9.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle11 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate2 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate3 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate4 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate5 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate6 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate7 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate6.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate8 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate7.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate9 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate8.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate10 -->
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate9.end"
+	  fill="freeze" />
+<!-- leftRectangle11 animate11 -->
+  <animate
+	  href="#leftRectangle11"
+	  attributeName="width"
+	  from="398.8995815949006"
+	  to="382.9435983311046"
+	  dur="2s"
+	  begin="leftRectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle11"
+	  attributeName="height"
+	  from="32.57679916358355"
+	  to="31.27372719704021"
+	  dur="2s"
+	  begin="leftRectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle11"
+	  attributeName="x"
+	  from="1125.9274279777997"
+	  to="-509.90966914131246"
+	  dur="2s"
+	  begin="leftRectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle11"
+	  attributeName="y"
+	  from="509.90966914131246"
+	  to="1493.5532823756598"
+	  dur="2s"
+	  begin="leftRectangle11animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle11"
+	  id="leftRectangle11animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle11animate10.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle12 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate2 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate3 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate4 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate5 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate6 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate7 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate6.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate8 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate7.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate9 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate8.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate10 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate9.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate11 -->
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate10.end"
+	  fill="freeze" />
+<!-- leftRectangle12 animate12 -->
+  <animate
+	  href="#leftRectangle12"
+	  attributeName="width"
+	  from="31.27372719704021"
+	  to="30.022778109158597"
+	  dur="2s"
+	  begin="leftRectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle12"
+	  attributeName="height"
+	  from="382.9435983311046"
+	  to="367.6258543978604"
+	  dur="2s"
+	  begin="leftRectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle12"
+	  attributeName="x"
+	  from="1493.5532823756598"
+	  to="-156.98884891936643"
+	  dur="2s"
+	  begin="leftRectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle12"
+	  attributeName="y"
+	  from="126.96607081020784"
+	  to="1125.9274279777997"
+	  dur="2s"
+	  begin="leftRectangle12animate11.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle12"
+	  id="leftRectangle12animate12"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle12animate11.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle13 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate2 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate3 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate4 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate5 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate6 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate7 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate6.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate8 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate7.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate9 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate8.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate10 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate9.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate11 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate10.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate12 -->
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate12"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate11.end"
+	  fill="freeze" />
+<!-- leftRectangle13 animate13 -->
+  <animate
+	  href="#leftRectangle13"
+	  attributeName="width"
+	  from="367.6258543978604"
+	  to="352.920820221946"
+	  dur="2s"
+	  begin="leftRectangle13animate12.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle13"
+	  attributeName="height"
+	  from="30.022778109158597"
+	  to="28.821866984792255"
+	  dur="2s"
+	  begin="leftRectangle13animate12.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle13"
+	  attributeName="x"
+	  from="1125.9274279777997"
+	  to="-509.90966914131246"
+	  dur="2s"
+	  begin="leftRectangle13animate12.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle13"
+	  attributeName="y"
+	  from="126.96607081020784"
+	  to="1125.9274279777997"
+	  dur="2s"
+	  begin="leftRectangle13animate12.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle13"
+	  id="leftRectangle13animate13"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle13animate12.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- leftRectangle14 animate1 -->
+  <animate
+	  href="#leftRectangle15"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; leftRectangleEndAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate2 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate1.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate3 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate2.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate4 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate3.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate5 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate4.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate6 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate5.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate7 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate6.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate8 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate7.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate9 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate8.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate10 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate9.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate11 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate10.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate12 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate12"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate11.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate13 -->
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate13"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate12.end"
+	  fill="freeze" />
+<!-- leftRectangle14 animate14 -->
+  <animate
+	  href="#leftRectangle14"
+	  attributeName="width"
+	  from="28.821866984792255"
+	  to="27.668992305400565"
+	  dur="2s"
+	  begin="leftRectangle14animate13.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle14"
+	  attributeName="height"
+	  from="352.920820221946"
+	  to="338.8039874130681"
+	  dur="2s"
+	  begin="leftRectangle14animate13.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle14"
+	  attributeName="x"
+	  from="1125.9274279777997"
+	  to="-509.90966914131246"
+	  dur="2s"
+	  begin="leftRectangle14animate13.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle14"
+	  attributeName="y"
+	  from="156.98884891936643"
+	  to="1154.7492949625919"
+	  dur="2s"
+	  begin="leftRectangle14animate13.end"
+	  fill="freeze" />
+  <animateTransform
+	  href="#leftRectangle14"
+	  id="leftRectangle14animate14"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="leftRectangle14animate13.end"
+	  fill="freeze" />
+  <!-- leftRectangle animation end -->
+  <animate
+	  href="#leftRectangle15"
+	  id="leftRectangleResetAnimate"
+	  attributeName="fill"
+	  values="violet"
+	  dur="2s"
+	  begin="leftRectangle14animate14.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle15"
+	  id="leftRectangleEndAnimate"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle1"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle2"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle3"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle4"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle5"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle6"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle7"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle8"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle9"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle10"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle11"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle12"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle13"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  href="#leftRectangle14"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="leftRectangleResetAnimate.end"
+	  fill="freeze" />
+<!-- leftRectangle end -->
   <rect
 	  id="rectangle0"
 	  width="925.145600891813"
