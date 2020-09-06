@@ -20,7 +20,7 @@ The questions I've asked with prolonged contemplation include:
 
 <summary>discoveries</summary>
 
-A Pythagorean triple with:
+A Pythagorean triple example of a non-halting tiling system:
 
 * a `( 2 / 3 )^n` scale symmetry log function;
 
