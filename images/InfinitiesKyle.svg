@@ -179,7 +179,7 @@
   <animate
 	  xlink:href="#rectangle2"
 	  attributeName="href"
-	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  values="http://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
 	  dur="0s"
 	  begin="rectangle1animate1.end"
 	  fill="freeze" />
