@@ -1,0 +1,4209 @@
+<svg 
+	xmlns="http://www.w3.org/2000/svg"
+ 	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1"
+	viewBox="-8 -8 643 941.145600891813"
+	fill="none" >
+  <!-- static objects -->
+  <rect
+	  id="rectangle0"
+	  width="627"
+	  height="925.145600891813"
+	  x="0"
+	  y="0"
+	  fill="navajowhite"
+	  stroke="black"
+	  stroke-width="2" />
+  <image
+	  id="rectangle13"
+	  href="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  width="625"
+	  height="500"
+	  x="1"
+	  y="1"
+	  fill="gold"
+	  stroke="black"
+	  stroke-width="1" />
+  <!-- dynamic objects -->
+  <image
+	  id="rectangle1"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <image
+	  id="rectangle2"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+  <image
+	  id="rectangle3"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="yellowgreen" />
+  <image
+	  id="rectangle4"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="turquoise" />
+  <image
+	  id="rectangle5"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="violet" />
+  <image
+	  id="rectangle6"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <image
+	  id="rectangle7"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+  <image
+	  id="rectangle8"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="yellowgreen" />
+  <image
+	  id="rectangle9"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="turquoise" />
+  <image
+	  id="rectangle10"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="violet" />
+  <image
+	  id="rectangle11"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="gold" />
+  <image
+	  id="rectangle12"
+	  width="0"
+	  height="0"
+	  stroke="black"
+	  stroke-width="1"
+	  fill="coral" />
+<!-- next dynamic object automation -->
+<!-- rectangle1 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle1"
+	  id="rectangle1animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="0s; endAnimate.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle2 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle2"
+	  id="rectangle2animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle1animate1.end"
+	  fill="freeze" />
+<!-- rectangle2 animate2 -->
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle2"
+	  id="rectangle2animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle2animate1.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle3 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="0s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle2animate2.end"
+	  fill="freeze" />
+<!-- rectangle3 animate2 -->
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle3animate1.end"
+	  fill="freeze" />
+<!-- rectangle3 animate3 -->
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle3"
+	  id="rectangle3animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle3animate2.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle4 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle3animate3.end"
+	  fill="freeze" />
+<!-- rectangle4 animate2 -->
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle4animate1.end"
+	  fill="freeze" />
+<!-- rectangle4 animate3 -->
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle4animate2.end"
+	  fill="freeze" />
+<!-- rectangle4 animate4 -->
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle4"
+	  id="rectangle4animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle4animate3.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle5 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="gold"
+	  dur="0s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle4animate4.end"
+	  fill="freeze" />
+<!-- rectangle5 animate2 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle5animate1.end"
+	  fill="freeze" />
+<!-- rectangle5 animate3 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle5animate2.end"
+	  fill="freeze" />
+<!-- rectangle5 animate4 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle5animate3.end"
+	  fill="freeze" />
+<!-- rectangle5 animate5 -->
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle5"
+	  id="rectangle5animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle5animate4.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle6 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="rectangle5animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle5animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle5animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle5animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle5animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle5animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle5animate5.end"
+	  fill="freeze" />
+<!-- rectangle6 animate2 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle6animate1.end"
+	  fill="freeze" />
+<!-- rectangle6 animate3 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle6animate2.end"
+	  fill="freeze" />
+<!-- rectangle6 animate4 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle6animate3.end"
+	  fill="freeze" />
+<!-- rectangle6 animate5 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle6animate4.end"
+	  fill="freeze" />
+<!-- rectangle6 animate6 -->
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  from="71.12447418350447"
+	  to="48.15361338638919"
+	  dur="2s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="height"
+	  from="88.90559272938059"
+	  to="60.19201673298649"
+	  dur="2s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle6"
+	  id="rectangle6animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle6animate5.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle7 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="rectangle6animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle6animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle6animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle6animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle6animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle6animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle6animate6.end"
+	  fill="freeze" />
+<!-- rectangle7 animate2 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle7animate1.end"
+	  fill="freeze" />
+<!-- rectangle7 animate3 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle7animate2.end"
+	  fill="freeze" />
+<!-- rectangle7 animate4 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle7animate3.end"
+	  fill="freeze" />
+<!-- rectangle7 animate5 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle7animate4.end"
+	  fill="freeze" />
+<!-- rectangle7 animate6 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="71.12447418350447"
+	  to="48.15361338638919"
+	  dur="2s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="88.90559272938059"
+	  to="60.19201673298649"
+	  dur="2s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle7animate5.end"
+	  fill="freeze" />
+<!-- rectangle7 animate7 -->
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  from="60.19201673298649"
+	  to="40.751979342991405"
+	  dur="2s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="height"
+	  from="48.15361338638919"
+	  to="32.601583474393124"
+	  dur="2s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="y"
+	  from="646.8051720761841"
+	  to="438.2313881555482"
+	  dur="2s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle7"
+	  id="rectangle7animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle7animate6.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle8 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="turquoise"
+	  dur="0s"
+	  begin="rectangle7animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle7animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle7animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle7animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle7animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle7animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle7animate7.end"
+	  fill="freeze" />
+<!-- rectangle8 animate2 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate1.end"
+	  fill="freeze" />
+<!-- rectangle8 animate3 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate2.end"
+	  fill="freeze" />
+<!-- rectangle8 animate4 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate3.end"
+	  fill="freeze" />
+<!-- rectangle8 animate5 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate4.end"
+	  fill="freeze" />
+<!-- rectangle8 animate6 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="71.12447418350447"
+	  to="48.15361338638919"
+	  dur="2s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="88.90559272938059"
+	  to="60.19201673298649"
+	  dur="2s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate5.end"
+	  fill="freeze" />
+<!-- rectangle8 animate7 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="60.19201673298649"
+	  to="40.751979342991405"
+	  dur="2s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="48.15361338638919"
+	  to="32.601583474393124"
+	  dur="2s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="646.8051720761841"
+	  to="438.2313881555482"
+	  dur="2s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate6.end"
+	  fill="freeze" />
+<!-- rectangle8 animate8 -->
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  from="32.601583474393124"
+	  to="22.07234660687469"
+	  dur="2s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="height"
+	  from="40.751979342991405"
+	  to="27.59043325859336"
+	  dur="2s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="x"
+	  from="438.2313881555482"
+	  to="-628.1255393400675"
+	  dur="2s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle8"
+	  id="rectangle8animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate7.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle9 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="violet"
+	  dur="0s"
+	  begin="rectangle8animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle8animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle8animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle8animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle8animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle8animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle8animate8.end"
+	  fill="freeze" />
+<!-- rectangle9 animate2 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate1.end"
+	  fill="freeze" />
+<!-- rectangle9 animate3 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate2.end"
+	  fill="freeze" />
+<!-- rectangle9 animate4 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate3.end"
+	  fill="freeze" />
+<!-- rectangle9 animate5 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate4.end"
+	  fill="freeze" />
+<!-- rectangle9 animate6 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="71.12447418350447"
+	  to="48.15361338638919"
+	  dur="2s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="88.90559272938059"
+	  to="60.19201673298649"
+	  dur="2s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate5.end"
+	  fill="freeze" />
+<!-- rectangle9 animate7 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="60.19201673298649"
+	  to="40.751979342991405"
+	  dur="2s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="48.15361338638919"
+	  to="32.601583474393124"
+	  dur="2s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="646.8051720761841"
+	  to="438.2313881555482"
+	  dur="2s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate6.end"
+	  fill="freeze" />
+<!-- rectangle9 animate8 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="32.601583474393124"
+	  to="22.07234660687469"
+	  dur="2s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="40.751979342991405"
+	  to="27.59043325859336"
+	  dur="2s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="438.2313881555482"
+	  to="-628.1255393400675"
+	  dur="2s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate7.end"
+	  fill="freeze" />
+<!-- rectangle9 animate9 -->
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  from="27.59043325859336"
+	  to="18.679632736116723"
+	  dur="2s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="height"
+	  from="22.07234660687469"
+	  to="14.943706188893378"
+	  dur="2s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle9"
+	  id="rectangle9animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate8.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle10 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="gold"
+	  dur="0s"
+	  begin="rectangle9animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle9animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle9animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle9animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle9animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle9animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle9animate9.end"
+	  fill="freeze" />
+<!-- rectangle10 animate2 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate1.end"
+	  fill="freeze" />
+<!-- rectangle10 animate3 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate2.end"
+	  fill="freeze" />
+<!-- rectangle10 animate4 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate3.end"
+	  fill="freeze" />
+<!-- rectangle10 animate5 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate4.end"
+	  fill="freeze" />
+<!-- rectangle10 animate6 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="71.12447418350447"
+	  to="48.15361338638919"
+	  dur="2s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="88.90559272938059"
+	  to="60.19201673298649"
+	  dur="2s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate5.end"
+	  fill="freeze" />
+<!-- rectangle10 animate7 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="60.19201673298649"
+	  to="40.751979342991405"
+	  dur="2s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="48.15361338638919"
+	  to="32.601583474393124"
+	  dur="2s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="646.8051720761841"
+	  to="438.2313881555482"
+	  dur="2s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate6.end"
+	  fill="freeze" />
+<!-- rectangle10 animate8 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="32.601583474393124"
+	  to="22.07234660687469"
+	  dur="2s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="40.751979342991405"
+	  to="27.59043325859336"
+	  dur="2s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="438.2313881555482"
+	  to="-628.1255393400675"
+	  dur="2s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate7.end"
+	  fill="freeze" />
+<!-- rectangle10 animate9 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="27.59043325859336"
+	  to="18.679632736116723"
+	  dur="2s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="22.07234660687469"
+	  to="14.943706188893378"
+	  dur="2s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate8.end"
+	  fill="freeze" />
+<!-- rectangle10 animate10 -->
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  from="14.943706188893378"
+	  to="10.117381655759988"
+	  dur="2s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="height"
+	  from="18.679632736116723"
+	  to="12.646727069699985"
+	  dur="2s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="y"
+	  from="628.1255393400675"
+	  to="425.58466108584827"
+	  dur="2s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle10"
+	  id="rectangle10animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate9.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle11 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="coral"
+	  dur="0s"
+	  begin="rectangle10animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle10animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle10animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle10animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle10animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle10animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle10animate10.end"
+	  fill="freeze" />
+<!-- rectangle11 animate2 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate1.end"
+	  fill="freeze" />
+<!-- rectangle11 animate3 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate2.end"
+	  fill="freeze" />
+<!-- rectangle11 animate4 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate3.end"
+	  fill="freeze" />
+<!-- rectangle11 animate5 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate4.end"
+	  fill="freeze" />
+<!-- rectangle11 animate6 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="71.12447418350447"
+	  to="48.15361338638919"
+	  dur="2s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="88.90559272938059"
+	  to="60.19201673298649"
+	  dur="2s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate5.end"
+	  fill="freeze" />
+<!-- rectangle11 animate7 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="60.19201673298649"
+	  to="40.751979342991405"
+	  dur="2s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="48.15361338638919"
+	  to="32.601583474393124"
+	  dur="2s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="646.8051720761841"
+	  to="438.2313881555482"
+	  dur="2s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate6.end"
+	  fill="freeze" />
+<!-- rectangle11 animate8 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="32.601583474393124"
+	  to="22.07234660687469"
+	  dur="2s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="40.751979342991405"
+	  to="27.59043325859336"
+	  dur="2s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="438.2313881555482"
+	  to="-628.1255393400675"
+	  dur="2s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate7.end"
+	  fill="freeze" />
+<!-- rectangle11 animate9 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="27.59043325859336"
+	  to="18.679632736116723"
+	  dur="2s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="22.07234660687469"
+	  to="14.943706188893378"
+	  dur="2s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate8.end"
+	  fill="freeze" />
+<!-- rectangle11 animate10 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="14.943706188893378"
+	  to="10.117381655759988"
+	  dur="2s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="18.679632736116723"
+	  to="12.646727069699985"
+	  dur="2s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="628.1255393400675"
+	  to="425.58466108584827"
+	  dur="2s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate9.end"
+	  fill="freeze" />
+<!-- rectangle11 animate11 -->
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  from="12.646727069699985"
+	  to="8.562251080356733"
+	  dur="2s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="height"
+	  from="10.117381655759988"
+	  to="6.849800864285386"
+	  dur="2s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="x"
+	  from="425.58466108584827"
+	  to="-636.6877904204241"
+	  dur="2s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="y"
+	  from="636.6877904204241"
+	  to="431.3815872912628"
+	  dur="2s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle11"
+	  id="rectangle11animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate10.end"
+	  fill="freeze" />
+<!-- next dynamic object automation -->
+<!-- rectangle12 animate1 -->
+  <animate
+	  xlink:href="#rectangle13"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="0s"
+	  begin="rectangle11animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle11animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="625"
+	  to="423.14560089181305"
+	  dur="2s"
+	  begin="rectangle11animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="500"
+	  to="338.5164807134504"
+	  dur="2s"
+	  begin="rectangle11animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle11animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="1"
+	  to="1"
+	  dur="2s"
+	  begin="rectangle11animate11.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate1"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle11animate11.end"
+	  fill="freeze" />
+<!-- rectangle12 animate2 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="338.5164807134504"
+	  to="229.1868154292397"
+	  dur="2s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="423.14560089181305"
+	  to="286.4835192865496"
+	  dur="2s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="1"
+	  to="-924.145600891813"
+	  dur="2s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate2"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate1.end"
+	  fill="freeze" />
+<!-- rectangle12 animate3 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="286.4835192865496"
+	  to="193.95878546257333"
+	  dur="2s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="229.1868154292397"
+	  to="155.16702837005866"
+	  dur="2s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="694.9587854625734"
+	  to="470.8329716299413"
+	  dur="2s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate3"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate2.end"
+	  fill="freeze" />
+<!-- rectangle12 animate4 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="155.16702837005866"
+	  to="105.05319273319276"
+	  dur="2s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="193.95878546257333"
+	  to="131.31649091649095"
+	  dur="2s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="470.8329716299413"
+	  to="-606.0531927331928"
+	  dur="2s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate4"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate3.end"
+	  fill="freeze" />
+<!-- rectangle12 animate5 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="131.31649091649095"
+	  to="88.90559272938059"
+	  dur="2s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="105.05319273319276"
+	  to="71.12447418350447"
+	  dur="2s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="501"
+	  to="339.5164807134504"
+	  dur="2s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate5"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate4.end"
+	  fill="freeze" />
+<!-- rectangle12 animate6 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="71.12447418350447"
+	  to="48.15361338638919"
+	  dur="2s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="88.90559272938059"
+	  to="60.19201673298649"
+	  dur="2s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="339.5164807134504"
+	  to="-694.9587854625734"
+	  dur="2s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate6"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate5.end"
+	  fill="freeze" />
+<!-- rectangle12 animate7 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="60.19201673298649"
+	  to="40.751979342991405"
+	  dur="2s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="48.15361338638919"
+	  to="32.601583474393124"
+	  dur="2s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="646.8051720761841"
+	  to="438.2313881555482"
+	  dur="2s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate7"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate6.end"
+	  fill="freeze" />
+<!-- rectangle12 animate8 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="32.601583474393124"
+	  to="22.07234660687469"
+	  dur="2s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="40.751979342991405"
+	  to="27.59043325859336"
+	  dur="2s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="438.2313881555482"
+	  to="-628.1255393400675"
+	  dur="2s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate8"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate7.end"
+	  fill="freeze" />
+<!-- rectangle12 animate9 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
+	  dur="0s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="27.59043325859336"
+	  to="18.679632736116723"
+	  dur="2s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="22.07234660687469"
+	  to="14.943706188893378"
+	  dur="2s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="606.0531927331928"
+	  to="410.6409548969549"
+	  dur="2s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate9"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate8.end"
+	  fill="freeze" />
+<!-- rectangle12 animate10 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
+	  dur="0s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="14.943706188893378"
+	  to="10.117381655759988"
+	  dur="2s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="18.679632736116723"
+	  to="12.646727069699985"
+	  dur="2s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="410.6409548969549"
+	  to="-646.8051720761841"
+	  dur="2s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="628.1255393400675"
+	  to="425.58466108584827"
+	  dur="2s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate10"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate9.end"
+	  fill="freeze" />
+<!-- rectangle12 animate11 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
+	  dur="0s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="12.646727069699985"
+	  to="8.562251080356733"
+	  dur="2s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="10.117381655759988"
+	  to="6.849800864285386"
+	  dur="2s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="425.58466108584827"
+	  to="-636.6877904204241"
+	  dur="2s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="636.6877904204241"
+	  to="431.3815872912628"
+	  dur="2s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate11"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate10.end"
+	  fill="freeze" />
+<!-- rectangle12 animate12 -->
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="href"
+	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
+	  dur="0s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  from="6.849800864285386"
+	  to="4.63754096433168"
+	  dur="2s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="height"
+	  from="8.562251080356733"
+	  to="5.796926205414599"
+	  dur="2s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="x"
+	  from="431.3815872912628"
+	  to="-632.7630803043992"
+	  dur="2s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="y"
+	  from="628.1255393400675"
+	  to="425.58466108584827"
+	  dur="2s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <animateTransform
+	  xlink:href="#rectangle12"
+	  id="rectangle12animate12"
+	  attributeName="transform"
+	  type="rotate"
+	  from="0, 0, 0"
+	  to="-90, 0, 0"
+	  dur="2s"
+	  begin="rectangle12animate11.end"
+	  fill="freeze" />
+  <!-- animation end -->
+  <animate
+	  xlink:href="#rectangle13"
+	  id="resetAnimate"
+	  attributeName="fill"
+	  values="yellowgreen"
+	  dur="2s"
+	  begin="rectangle12animate12.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle13"
+	  id="endAnimate"
+	  attributeName="fill"
+	  values="gold"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle1"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle2"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle3"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle4"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle5"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle6"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle7"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle8"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle9"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle10"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle11"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+  <animate
+	  xlink:href="#rectangle12"
+	  attributeName="width"
+	  values="0"
+	  dur="2s"
+	  begin="resetAnimate.end"
+	  fill="freeze" />
+</svg>
