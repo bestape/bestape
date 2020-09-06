@@ -1,10 +1,10 @@
-### hello visitor!  👋
-
 <p align="center">
 
    <img src="https://github.com/bestape/bestape/blob/master/images/caterpill.svg?raw=true" width="100%">
 
 </p>
+
+### hello visitor!  👋
 
 My focus for the past few years has been on the intersection of non-halting mathematics and computer science. 
 
