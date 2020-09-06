@@ -229,7 +229,7 @@
   <animate
 	  xlink:href="#rectangle2"
 	  attributeName="href"
-	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg?sanitize=true"
+	  values="https://cdn.jsdelivr.net/gh/bestape/bestape/master/images/InfinitiesKyle2.jpg?sanitize=true"
 	  dur="0s"
 	  begin="rectangle2animate1.end"
 	  fill="freeze" />
@@ -287,7 +287,7 @@
   <animate
 	  xlink:href="#rectangle3"
 	  attributeName="href"
-	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg?sanitize=true"
+	  values="https://cdn.jsdelivr.net/gh/bestape/bestape/master/images/InfinitiesKyle1.jpg?sanitize=true"
 	  dur="0s"
 	  begin="rectangle2animate2.end"
 	  fill="freeze" />
@@ -337,7 +337,7 @@
   <animate
 	  xlink:href="#rectangle3"
 	  attributeName="href"
-	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg?sanitize=true"
+	  values="https://cdn.jsdelivr.net/gh/bestape/bestape/master/images/InfinitiesKyle2.jpg?sanitize=true"
 	  dur="0s"
 	  begin="rectangle3animate1.end"
 	  fill="freeze" />
