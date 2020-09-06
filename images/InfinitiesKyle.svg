@@ -444,7 +444,7 @@
 	  fill="freeze" />
   <animate
 	  xlink:href="#rectangle4"
-	  attributeName="href"
+	  attributeName="src"
 	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle1.jpg"
 	  dur="0s"
 	  begin="rectangle3animate3.end"
@@ -494,7 +494,7 @@
 <!-- rectangle4 animate2 -->
   <animate
 	  xlink:href="#rectangle4"
-	  attributeName="href"
+	  attributeName="src"
 	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle2.jpg"
 	  dur="0s"
 	  begin="rectangle4animate1.end"
@@ -544,7 +544,7 @@
 <!-- rectangle4 animate3 -->
   <animate
 	  xlink:href="#rectangle4"
-	  attributeName="href"
+	  attributeName="src"
 	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle3.jpg"
 	  dur="0s"
 	  begin="rectangle4animate2.end"
@@ -594,7 +594,7 @@
 <!-- rectangle4 animate4 -->
   <animate
 	  xlink:href="#rectangle4"
-	  attributeName="href"
+	  attributeName="src"
 	  values="https://raw.githubusercontent.com/bestape/bestape/master/images/InfinitiesKyle4.jpg"
 	  dur="0s"
 	  begin="rectangle4animate3.end"
