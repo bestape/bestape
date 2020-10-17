@@ -52,6 +52,70 @@ Printed by [this alchemy repository](https://github.com/bestape/alchemy).
 
 * Approximate [`1 + 3 * 2^( 1 / 2 )`](https://oeis.org/A330390) with a natural number sequence.
 
+Context: 
+
+* 1 + sqrt(#): 
+
+  * #02 ~ [A001333](https://oeis.org/A001333), 
+  
+  * #03 ~ [A002531](https://oeis.org/A002531), 
+  
+  * #04 ~ [A000244](https://oeis.org/A000244), 
+  
+  * #05 ~ [A000045](https://oeis.org/A000045), 
+  
+  * #06 ~ [A123011](https://oeis.org/A123011), 
+  
+  * #07 ~ [A297189](https://oeis.org/A297189), 
+  
+  * #08 ~ [A164544](https://oeis.org/A164544), 
+  
+  * #09 ~ [A000079](https://oeis.org/A000079), 
+  
+  * #10 ~ [A328604](https://oeis.org/A328604),
+  
+  * #11 ~ [A328605](https://oeis.org/A328605), 
+  
+  * #12 ~ [A328606](https://oeis.org/A328606), 
+  
+  * #13 ~ [A105476](https://oeis.org/A105476).
+
+* 1 + #sqrt(2): 
+
+  * #2 ~ [A164544](https://oeis.org/A164544), 
+
+  * #3 ~ [A330390](https://oeis.org/A330390), 
+  
+  * #4 ~ ~~A330391~~, 
+  
+  * #5 ~ ~~A330392~~. 
+
+* 1 + #sqrt(3): 
+
+  * #2 ~ [A328606](https://oeis.org/A328606), 
+  
+  * #3 ~ ~~A330393~~, 
+  
+  * #4 ~ ~~A330394~~. 
+
+* 1 + #sqrt(4):
+
+  * #2 ~ ~~A330395~~ ~ 5, 
+  
+  * #3 ~ ~~A330396~~ ~ 7, 
+  
+  * #4 ~ ~~A330397~~ ~ 9. 
+
+* 1 + #sqrt(5):
+
+  * #2 ~ ~~A330398~~, 
+  
+  * #3 ~ [~~A330399~~](https://oeis.org/history?seq=A330399&start=10), 
+  
+  * #4 ~ ~~A330400~~.
+
+* These { [this](https://youtu.be/LlKvubIqHc8?t=288), [this](https://youtu.be/PZcDufdcYWg?t=913) } YouTube videos compared to the [A099603](https://oeis.org/A099603) Fibonacci sequence.
+
 </details>
 
 ### in a nutshell
