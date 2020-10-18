@@ -88,13 +88,13 @@ Context:
   
   * #4 ~ ~~A330391~~, 
   
-  * #5 ~ ~~A330392~~. 
+  * #5 ~ [~~A330392~~](https://oeis.org/history/view?seq=A330392&v=2). 
 
 * 1 + #sqrt(3): 
 
   * #2 ~ [A328606](https://oeis.org/A328606), 
   
-  * #3 ~ ~~A330393~~, 
+  * #3 ~ [~~A330393~~](https://oeis.org/history/view?seq=A330393&v=2), 
   
   * #4 ~ ~~A330394~~. 
 
@@ -110,7 +110,7 @@ Context:
 
   * #2 ~ ~~A330398~~, 
   
-  * #3 ~ [~~A330399~~](https://oeis.org/history?seq=A330399&start=10), 
+  * #3 ~ [~~A330399~~](https://oeis.org/history/view?seq=A330399&v=2), 
   
   * #4 ~ ~~A330400~~.
 
