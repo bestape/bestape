@@ -114,7 +114,25 @@ Context:
   
   * #4 ~ ~~A330400~~.
 
-* These { [this](https://youtu.be/LlKvubIqHc8?t=288), [this](https://youtu.be/PZcDufdcYWg?t=913) } YouTube videos compared to the [A099603](https://oeis.org/A099603) Fibonacci sequence.
+* [Inchoate conjecture](https://oeis.org/history?seq=A330399&start=10):
+
+  * These { [this](https://youtu.be/LlKvubIqHc8?t=288), [this](https://youtu.be/PZcDufdcYWg?t=913) } YouTube videos, namely how
+  
+  * the unique parts { `cos(#) & +0,-2,... "oscillating even"`, `sin(#) & +1,-3,... "oscillating odd"` }, and
+  
+  * the unique parts { `cos(#)*cos(#) & 1 + "Sum"`, `sin(#)*sin(#) & - "Sum"` }, rhyme with
+  
+    * { `(c + b) ~ 2b*x^0 + 2b*x^2 + ...`, `a ~ 2b*x^1 + 2b*x^3 + ...` }, 
+    
+    * given `a^2 + b^2 = c^2` and `(c - b) / a = x`, which is
+  
+    * context for `x^0 = 1` as well as `2b = 1; 2b*x^0 = 1` 
+    
+  * and also rhyme with
+  
+    * the [A099603](https://oeis.org/A099603) Fibonacci sequence approximations of `1 + sqrt5` and `(1 + sqrt5) / 2 = Golden ratio`, which is
+  
+    * context for why the geometric series is unique. 
 
 </details>
 
