@@ -126,13 +126,13 @@ Context:
     
     * given `a^2 + b^2 = c^2` and `(c - b) / a = x`, which is
   
-    * context for `x^0 = 1` as well as `2b = 1; 2b*x^0 = 1` 
+    * context for `x^0 = 1` as well as `2b = 1; 2b*x^0 = 1`; 
     
   * and also rhyme with
   
     * the [A099603](https://oeis.org/A099603) Fibonacci sequence approximations of `1 + sqrt5` and `(1 + sqrt5) / 2 = Golden ratio`, which is
   
-    * context for why the geometric series is unique. 
+    * context for why the geometric series and Silver 日本 ratio are uniquely non-halting sequences. 
 
 </details>
 
