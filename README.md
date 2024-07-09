@@ -62,7 +62,7 @@ Context:
   
   * #04 ~ [A000244](https://oeis.org/A000244), 
   
-  * #05 ~ [A000045](https://oeis.org/A000045), 
+  * #05 ~ [A000045](https://oeis.org/A000045) golden ratio, 
   
   * #06 ~ [A123011](https://oeis.org/A123011), 
   
@@ -70,7 +70,7 @@ Context:
   
   * #08 ~ [A164544](https://oeis.org/A164544), 
   
-  * #09 ~ [A000079](https://oeis.org/A000079), 
+  * #09 ~ [A000079](https://oeis.org/A000079) powers of 2, 
   
   * #10 ~ [A328604](https://oeis.org/A328604),
   
