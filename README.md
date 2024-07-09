@@ -62,7 +62,7 @@ Context:
   
   * #04 ~ [A000244](https://oeis.org/A000244), 
   
-  * #05 ~ [A000045](https://oeis.org/A000045) golden ratio, 
+  * #05 ~ [A000045](https://oeis.org/A000045) Fibonacci sequence, 
   
   * #06 ~ [A123011](https://oeis.org/A123011), 
   
